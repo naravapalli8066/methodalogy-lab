@@ -1,0 +1,6 @@
+C:\Users\Lalitha\source\repos\Traingle Test\Traingle Test\bin\Debug\Traingle Test.dll
+C:\Users\Lalitha\source\repos\Traingle Test\Traingle Test\bin\Debug\Traingle Test.pdb
+C:\Users\Lalitha\source\repos\Traingle Test\Traingle Test\obj\Debug\Traingle Test.csproj.AssemblyReference.cache
+C:\Users\Lalitha\source\repos\Traingle Test\Traingle Test\obj\Debug\Traingle Test.csproj.CoreCompileInputs.cache
+C:\Users\Lalitha\source\repos\Traingle Test\Traingle Test\obj\Debug\Traingle Test.dll
+C:\Users\Lalitha\source\repos\Traingle Test\Traingle Test\obj\Debug\Traingle Test.pdb
